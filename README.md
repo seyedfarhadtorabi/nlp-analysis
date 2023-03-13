@@ -1,10 +1,12 @@
 NLP Project
+
 This project analyzes a collection of customer complaints using natural language processing (NLP) techniques. The goal of the project is to extract the most prevalent topics discussed in the complaints and gain insights into the customer feedback.
 
 Data
 The customer complaints data is obtained from the Consumer Complaint Database maintained by the Consumer Financial Protection Bureau (CFPB). The data is available as a CSV file containing over 1.7 million customer complaints spanning the years 2011-2021. For this project, a subset of 100,000 randomly selected complaints is used.
 
 Workflow
+
 The project consists of several phases:
 
 Conception phase
