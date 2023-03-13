@@ -1,0 +1,19 @@
+name: nlp-project
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - pip
+  - jupyter
+  - pandas
+  - scikit-learn
+  - numpy
+  - nltk
+  - spacy
+  - matplotlib
+  - seaborn
+  - wordcloud
+  - pyldavis
